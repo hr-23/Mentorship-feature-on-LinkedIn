@@ -1,0 +1,38 @@
+Hardwork Points
+● Each and every user is assigned a Hardwork point based on his/her activity on LinkedIn
+● Hardwork points is calculated by :-
+a) # of posts shared on LinkedIn (no
+spam posts) :- user losses hardwork
+points on spam posts.
+b) Engagement on his posts (likes,
+comments, views etc.)
+c) # of webinars attended on LinkedIn.
+d) # of internships done by student
+e) # of certifications done on LinkedIn
+
+Popularity Points
+● Each and every mentor is assigned popularity points based on his/her activity on LinkedIn.
+● Popularity points is used to make “Leaderboard of mentors”
+● Popularity points is calculated by :-
+a) # of sessions taken by mentor using LinkedIn
+webinar feature
+b) # of mentees (if any) under his/her mentorship. c) Experience years in the domain
+d) # of followers on LinkedIn
+e) # of posts shared on LinkedIn
+f) Engagement on his/her posts (likes, comments, views etc.)
+● Popularity points is only visible to the mentor
+
+
+Assumptions
+Hardwork points = 0.1*(# Of posts)+Engagement points + 1*(# Of webinars attended) + 5*(# Of internships) + 1*(# Of certifications)
+
+
+
+Engagement points = 0.01*(# of Likes)+0.1*(# of Comments)+0.0001*(# of views)
+
+
+Popularity points = 1*(# Of sessions taken)+5*(# of mentees) + 2*(Experience years) + 0.001*(# Of followers) + 0.1*(# Of posts shared) + Engagement points
+
+
+
+
