@@ -1,0 +1,51 @@
+Start
+|
+|-- User Registration and Profile Setup
+|   |
+|   |-- Sign up/Log in on LinkedIn
+|   |-- Set up Profile (Student or Mentor)
+|
+|-- Activity Tracking for Hardwork Points (Students)
+|   |
+|   |-- Make a Post on LinkedIn
+|   |   |
+|   |   |-- Check for Spam
+|   |   |-- Calculate Engagement Points
+|   |   |
+|   |-- Attend a Webinar
+|   |-- Complete an Internship
+|   |-- Complete a Certification
+|   |-- Update Hardwork Points
+|
+|-- Activity Tracking for Popularity Points (Mentors)
+|   |
+|   |-- Take a Session using LinkedIn Webinar
+|   |-- Add a Mentee
+|   |-- Record Years of Experience
+|   |-- Track Number of Followers
+|   |-- Make a Post on LinkedIn
+|   |   |
+|   |   |-- Calculate Engagement Points
+|   |   |
+|   |-- Update Popularity Points
+|
+|-- Mentorship Feature
+|   |
+|   |-- Students Search for Mentors
+|   |-- Send Mentorship Requests
+|   |-- Mentors Review Requests
+|   |-- Mentor-Mentee Engagement
+|
+|-- Leaderboard and Points Display
+|   |
+|   |-- Generate Mentor Leaderboard
+|   |-- Display Popularity Points (Mentor view only)
+|   |-- Display Hardwork Points (Student view only)
+|
+|-- User Interaction and Continuous Feedback Loop
+|   |
+|   |-- Notifications about Points
+|   |-- Recommendations for Activities
+|   |-- Continuous Engagement
+|
+End
